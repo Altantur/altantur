@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: ocurus.com
-- 🌱 I’m currently learning: dart.dev
+- 🔭 I’m currently working on: alightcreative.com
+- 🌱 I’m currently learning: rust-lang.org
 - 👯 I’m looking to collaborate on: togloom.trade
 - 🤔 I’m looking for help with: golang.org
 - 💬 Ask me about: dev-tools
