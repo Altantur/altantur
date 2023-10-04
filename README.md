@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Bendingspoons, Alight Motion
-- 💬 Ask me about: Dev tools
-- 📫 How to reach me: @altantur
+- 🔭 I’m currently working on: Alight Motion, Bendingspoons
+- 💬 Ask me about: Full Stack Development
+- 📫 How to reach me: @altantur(almost anywhere in the Internet)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: no fun go back to work XD
+- 🚀 Open for Job: Yep! Tell me your story
+- ⚡ Fun fact: do you know that 6,000 years ago Sahara was grassland and received plenty of rainfall? 
